@@ -1,0 +1,195 @@
+.profile-pic-icon2 {
+    width: 88px;
+    height: 88px;
+    position: relative;
+    border-radius: var(--br-980xl);
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .description2,
+  .title2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+  }
+  .title2 {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .description2 {
+    font-size: var(--body-bold-size);
+    color: var(--neon-green);
+  }
+  .name-location2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .bio2,
+  .github5 {
+    position: relative;
+    font-size: var(--body-bold-size);
+    line-height: 150%;
+  }
+  .bio2 {
+    margin: 0;
+    align-self: stretch;
+  }
+  .github5 {
+    display: inline-block;
+    font-family: var(--body-bold);
+    color: var(--white);
+    text-align: left;
+    min-width: 49px;
+  }
+  .github4 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xs) var(--padding-xl);
+    background-color: var(--grey);
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frontend-mentor2 {
+    position: relative;
+    font-size: var(--body-bold-size);
+    line-height: 150%;
+    display: inline-block;
+    font-family: var(--body-bold);
+    color: var(--white);
+    text-align: left;
+    min-width: 115px;
+  }
+  .fem2 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xs) var(--padding-xl);
+    background-color: var(--grey);
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .linkedin5 {
+    position: relative;
+    font-size: var(--body-bold-size);
+    line-height: 150%;
+    display: inline-block;
+    font-family: var(--body-bold);
+    color: var(--white);
+    text-align: left;
+    min-width: 59px;
+  }
+  .linkedin4 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xs) var(--padding-xl);
+    background-color: var(--grey);
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .twitter2 {
+    position: relative;
+    font-size: var(--body-bold-size);
+    line-height: 150%;
+    display: inline-block;
+    font-family: var(--body-bold);
+    color: var(--white);
+    text-align: left;
+    min-width: 50px;
+  }
+  .twitter-x2 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xs) var(--padding-xl);
+    background-color: var(--grey);
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .instagram5 {
+    position: relative;
+    font-size: var(--body-bold-size);
+    line-height: 150%;
+    display: inline-block;
+    font-family: var(--body-bold);
+    color: var(--white);
+    text-align: left;
+    min-width: 70px;
+  }
+  .instagram4 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xs) var(--padding-xl);
+    background-color: var(--grey);
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+  }
+  .card2,
+  .links2,
+  .mobile {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .links2 {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-base);
+  }
+  .card2,
+  .mobile {
+    box-sizing: border-box;
+  }
+  .card2 {
+    flex: 1;
+    border-radius: var(--br-xs);
+    background-color: var(--dark-grey);
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-5xl);
+    gap: var(--gap-5xl);
+    max-width: 100%;
+  }
+  .mobile {
+    width: 100%;
+    position: relative;
+    background-color: var(--black);
+    overflow: hidden;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 116px var(--padding-5xl) 117px;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: var(--heading-size);
+    color: var(--white);
+    font-family: var(--body-bold);
+  }
+  
+  
+ 
